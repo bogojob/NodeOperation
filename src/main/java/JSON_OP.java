@@ -1,0 +1,7 @@
+
+
+public enum JSON_OP {
+	ADD,REMOVE,REPLACE,MOVE,RENAME,NONE, UPDATESIZE;
+	
+
+}
